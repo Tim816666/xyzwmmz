@@ -1,0 +1,1 @@
+window.wx={getSystemInfo(){},getStorageInfo(){},onShow(e){setTimeout(()=>{e({scene:"0",query:{},shareTicket:[]})},1e3)},onHide(){}},window.__HORTOR_SDK__={tga:{track(){}}}
